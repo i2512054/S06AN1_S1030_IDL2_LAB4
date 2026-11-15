@@ -1,0 +1,23 @@
+<reclamacion>
+	<id_reclamacion>REC-2026-0981</id_reclamacion>
+	<numero_poliza>POL-9928341</numero_poliza>
+	<id_cliente>CLI-8831</id_cliente>
+	<fecha_incidente>2026-10-20</fecha_incidente>
+	<tipo_siniestro>Colisión Vehicular</tipo_siniestro>
+	<monto_total_reclamado>4500.50</monto_total_reclamado>
+	<descripcion_hechos>Vehículo impactado en estacionamiento posterior</descripcion_hechos>
+	<items>
+		<item>
+			<item_id>ITM-01</item_id>
+			<descripcion>Parachoques trasero rayado</descripcion>
+			<monto_estimado>1500.00</monto_estimado>
+			<categoria>Carrocería</categoria>
+		</item>
+		<item>
+			<item_id>ITM-02</item_id>
+			<descripcion>Faro posterior roto</descripcion>
+			<monto_estimado>3000.00</monto_estimado>
+			<categoria>Repuestos</categoria>
+		</item>
+	</items>
+</reclamacion>
